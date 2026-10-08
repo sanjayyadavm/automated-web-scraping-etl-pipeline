@@ -1,0 +1,8 @@
+2026-10-09 10:00:01 INFO Pipeline Started
+2026-10-09 10:00:02 INFO Connecting to website
+2026-10-09 10:00:03 INFO Extracted 10 records
+2026-10-09 10:00:04 INFO Data transformed
+2026-10-09 10:00:05 INFO CSV exported
+2026-10-09 10:00:05 INFO JSON exported
+2026-10-09 10:00:06 INFO Report generated
+2026-10-09 10:00:06 INFO Pipeline Completed Successfully
