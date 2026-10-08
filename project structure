@@ -1,0 +1,26 @@
+automated-web-scraping-etl-pipeline/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── logs/
+│   └── scraper.log
+│
+├── output/
+│   ├── jobs.csv
+│   ├── jobs.json
+│   └── report.txt
+│
+├── src/
+│   ├── scraper.py
+│   ├── transformer.py
+│   ├── exporter.py
+│   └── report.py
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+└── config.py
